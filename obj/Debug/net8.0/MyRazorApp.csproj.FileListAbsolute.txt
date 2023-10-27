@@ -1,5 +1,6 @@
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\bin\Debug\net8.0\appsettings.json
+C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\bin\Debug\net8.0\MyRazorApp.staticwebassets.runtime.json
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\bin\Debug\net8.0\MyRazorApp.exe
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\bin\Debug\net8.0\MyRazorApp.deps.json
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\bin\Debug\net8.0\MyRazorApp.runtimeconfig.json
@@ -10,6 +11,9 @@ C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\MyRazorApp.AssemblyInfo.cs
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\MyRazorApp.csproj.CoreCompileInputs.cache
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\MyRazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\MyRazorApp.RazorAssemblyInfo.cache
+C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\MyRazorApp.RazorAssemblyInfo.cs
+C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\MyRazorApp.sourcelink.json
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\staticwebassets\msbuild.MyRazorApp.Microsoft.AspNetCore.StaticWebAssets.props
@@ -23,3 +27,5 @@ C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\MyRazorApp.pdb
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\MyRazorApp.genruntimeconfig.cache
 C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\ref\MyRazorApp.dll
+C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\scopedcss\Pages\Categories.cshtml.rz.scp.css
+C:\Users\RobsonLucasFariasBar\Documents\development\desktop\MyRazorApp\obj\Debug\net8.0\scopedcss\projectbundle\MyRazorApp.bundle.scp.css
